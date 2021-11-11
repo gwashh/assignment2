@@ -8,12 +8,18 @@ background-color:aqua;
 .paragraph{
     color:white;
     background-color: black;
+    font-size: 0.449cm;
 }
 .hobbies{
     color: blanchedalmond;
     background-color: brown;
+    font-size: 0.7cm;
 }
 .skills{
     color: chartreuse;
     background-color: cornflowerblue;
+    font-size: 1cm;
+}
+.lion{
+    float: right
 }
