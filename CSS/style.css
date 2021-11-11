@@ -5,3 +5,15 @@ h1{
 .body{
 background-color:aqua;
 }
+.paragraph{
+    color:white;
+    background-color: black;
+}
+.hobbies{
+    color: blanchedalmond;
+    background-color: brown;
+}
+.skills{
+    color: chartreuse;
+    background-color: cornflowerblue;
+}
